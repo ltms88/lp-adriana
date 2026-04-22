@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / local
+.vscode/
+.idea/
+*.swp
+
+# Claude
+.claude/
+
+# Vercel
+.vercel/
+
+# Deps (se um dia usar)
+node_modules/
+npm-debug.log
+yarn-error.log
